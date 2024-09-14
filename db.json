@@ -1,0 +1,74 @@
+{
+  "profesores": [
+    {
+      "nombre": "Franco",
+      "apellido": "Mico",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Matematica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ],
+      "id": "6452"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Alejandro",
+      "apellido": "Ame",
+      "promedio": 1,
+      "id": "37bd"
+    },
+    {
+      "nombre": "Facundo",
+      "apellido": "Fernandez",
+      "promedio": 5,
+      "id": "8c22"
+    },
+    {
+      "0": {
+        "nombre": "Alejandro",
+        "apellido": "Ame",
+        "promedio": 1,
+        "id": "37bd"
+      },
+      "1": {
+        "nombre": "Facundo",
+        "apellido": "Fernandez",
+        "promedio": 5,
+        "id": "8c22"
+      },
+      "2": {
+        "nombre": "Emanuel",
+        "apellido": "Carloni",
+        "promedio": 8
+      },
+      "id": "985f"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "JavaScript",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "5d60"
+    },
+    {
+      "nombre": "Git",
+      "duracion": 5,
+      "dificultad": "intermedia",
+      "id": "702f"
+    },
+    {
+      "nombre": "Python",
+      "duracion": 9,
+      "dificultad": "dificil",
+      "id": "da32"
+    }
+  ]
+}
